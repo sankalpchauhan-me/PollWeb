@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Who is your favorite captain?",
+    "author": "Test",
+    "options": [
+      "Dhoni",
+      "Virat Kohli",
+      "Sunil Raina"
+    ],
+    "votes": [
+      5,
+      4,
+      7
+    ]
+  },
+  {
+    "name": "This is a test question with multiple users?",
+    "author": "Test",
+    "options": [
+      "Option 1",
+      "Option 2",
+      "Option 3",
+      "Option 4",
+      "Option 5",
+      "Option 6"
+    ],
+    "votes": [
+      3,
+      6,
+      4,
+      7,
+      1,
+      2
+    ]
+  }
+]
